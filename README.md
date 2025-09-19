@@ -1,12 +1,11 @@
-📊 Financial Report Dashboard - README
-Overview
+📊 Financial Report Dashboard 
 
 This Power BI dashboard provides an interactive financial analysis to monitor sales, profit, and performance metrics across different time periods, products, and discount bands.
 It helps stakeholders quickly identify trends, segment performance, and business growth opportunities.
 
 ⚙️ Data Source
 
-Dataset: financials (imported from Excel/SQL/Dataverse as shown in screenshot)
+Dataset: financials 
 
 Key Fields:
 
